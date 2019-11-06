@@ -1,0 +1,16 @@
+.uploadFile{
+    justify-content: space-between;
+}
+.mainContent{
+    overflow-x: auto;
+    overflow-y:auto;
+    max-height: 65vh;
+    width: 100%;
+}
+table {white-space:wrap}
+.errors{
+    overflow-y:scroll ;
+    display: none;
+    max-height: 45vh;
+    margin: 5%;
+}
